@@ -1,2 +1,2 @@
 # book-application-client
-REST client for Boot Service 
+REST client for Book Service 
